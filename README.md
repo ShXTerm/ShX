@@ -1,4 +1,5 @@
 ShX: A Modern Terminal Multiplexer
+
 ShX is an open-source terminal multiplexer designed to enhance productivity by allowing users to manage multiple terminal sessions from a single window. With a focus on simplicity, speed, and modern features, ShX aims to be a powerful alternative to traditional terminal multiplexers like tmux and screen.
 
 Key Features:
